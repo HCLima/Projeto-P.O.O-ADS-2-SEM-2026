@@ -1,0 +1,3 @@
+101|The Legend of Zelda: Breath of the Wild|Nintendo|299.90|125.5
+102|Hollow Knight|Team Cherry|59.90|78.0
+103|Stardew Valley|ConcernedApe|24.99|42.5
